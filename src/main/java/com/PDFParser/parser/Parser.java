@@ -1,4 +1,4 @@
-package com.CSVOrm;
+package com.PDFParser.parser;
 
 import lombok.SneakyThrows;
 
@@ -12,9 +12,8 @@ import java.util.Map;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
-public class CSVOrm {
-
-    public static final String DELIMITER = " ";
+public class Parser {
+    public static final String DELIMITER = ";";
 
     public static <T> List<T> transform(List<String> lines, Class<T> cls) {
         Map<Integer, String> mapping = buildMapping(lines.get(0));
@@ -77,6 +76,4 @@ public class CSVOrm {
     private static String[] splitLine(String line) {
         return line.split(DELIMITER);
     }
-
 }
-

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c45c712-ae6b-4e2f-a1d6-7695a36c3609" name="Changes" comment="Test">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/CSVOrm/CSVOrm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/PDFParser/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/PDFParser/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/PDFParser/model/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/PDFParser/model/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/CSVOrm/CSVOrm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/PDFParser/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/PDFParser/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/PDFParser/model/Model.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/PDFParser/model/Model.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="branchMax" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2DnZ8zS2M5kEr6cgmjTnGLl0yK4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2735632" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\pdf-parser" />
+      <recent name="D:\Projects\pdf-parser\src\main\resources" />
+      <recent name="D:\Projects\pdf-parser\src\main\java\PdfToJava" />
+      <recent name="D:\Projects\pdf-parser\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\pdf-parser\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.CSVOrm" />
+      <recent name="src.main.java.PDFParser.model" />
+      <recent name="src.main.java.PDFParser" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.PDFParser.Main" />
+      <module name="pdf-parser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.PDFParser.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c45c712-ae6b-4e2f-a1d6-7695a36c3609" name="Changes" comment="" />
+      <created>1661336655145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661336655145</updated>
+      <workItem from="1661336656932" duration="1348000" />
+      <workItem from="1661338144843" duration="1697000" />
+      <workItem from="1661344053206" duration="503000" />
+      <workItem from="1661344567648" duration="583000" />
+      <workItem from="1661453463559" duration="13000" />
+      <workItem from="1662030194615" duration="2000" />
+      <workItem from="1662558752103" duration="850000" />
+      <workItem from="1662559687777" duration="8000" />
+      <workItem from="1662565291333" duration="42000" />
+      <workItem from="1664453803548" duration="37000" />
+      <workItem from="1664534495057" duration="2562000" />
+    </task>
+    <task id="LOCAL-00001" summary="Test">
+      <created>1661338494600</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661338494600</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/PDFParser/validate/Validator.java</url>
+          <line>11</line>
+          <properties class="com.PDFParser.validate.Validator">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/PDFParser/util/ModelWriter.java</url>
+          <line>29</line>
+          <properties class="com.PDFParser.util.ModelWriter" method="printToConsole">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/PDFParser/util/TableLookUp.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
